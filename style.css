@@ -1,0 +1,24 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    
+    
+}
+h1{
+    
+    color: rgb(26, 89, 121);
+    font-size: 40px;
+    
+}
+span{
+    
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+  width: 80%;
+}
